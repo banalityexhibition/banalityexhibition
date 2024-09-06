@@ -1,5 +1,5 @@
 <div align="center">
-### BANALITYEXHIBITION
+<h1>BANALITYEXHIBITION</h1>
 </div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/banalityexhibition/banalityexhibition/main/img/homepage.gif" alt="it's easy" align="center">
